@@ -1,0 +1,2 @@
+# -Customer-Segmentation-using-K-Means-Clustering
+✔ Analyzed 200+ customer records (Age, Income, Spending Score)  Preprocessed data (scaling + feature engineering) ✔ Applied Elbow Method &amp; Silhouette Score to optimize clusters (k=5) ✔ Visualized insights for targeted marketing strategies 📊 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn 📂 Dataset: Kaggle  Mall Customer Segmentation
